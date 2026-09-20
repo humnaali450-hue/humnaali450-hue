@@ -121,10 +121,6 @@ Machine learning system for predicting customer/student churn and analyzing fact
 * 📉 Model evaluation
 * 🖥️ Interactive application
 
-<a href="https://github.com/humnaali450-hue/LMS-Churn-Prediction-System">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
 </td>
 
 <td width="50%" valign="top">
@@ -141,10 +137,6 @@ AI-powered NLP application for detecting sentiment from text across multiple lan
 * 😊 Positive / Negative / Neutral
 * 📊 Confidence scores
 * 🖥️ Streamlit interface
-
-<a href="https://github.com/humnaali450-hue/multilingual_sentiment_analyzer">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </td>
 
@@ -167,10 +159,6 @@ A Retrieval-Augmented Generation application that allows users to upload researc
 * 🤖 Local LLM with Ollama
 * 💬 Document-based question answering
 
-<a href="https://github.com/humnaali450-hue/Research-Paper-Assistant-RAG-APP">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
 </td>
 
 <td width="50%" valign="top">
@@ -186,10 +174,6 @@ An AI-powered chatbot designed to provide support and information for internship
 * 🧠 NLP-based processing
 * 🖥️ Interactive interface
 * 📊 AI-powered responses
-
-<a href="https://github.com/humnaali450-hue/Internship_Support_Chatbot">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </td>
 
@@ -211,10 +195,6 @@ NLP and clustering-based system for identifying gaps between intern skills and i
 * 📊 Skill gap identification
 * 🎓 Training recommendations
 
-<a href="https://github.com/humnaali450-hue/Skill_Gap_Analysis">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
 </td>
 
 <td width="50%" valign="top">
@@ -232,9 +212,6 @@ Deep learning project for handwritten digit classification using a Convolutional
 * 📉 ROC / AUC analysis
 * 🔬 Model evaluation
 
-<a href="https://github.com/humnaali450-hue">
-<img src="https://img.shields.io/badge/View%20Projects-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </td>
 
@@ -256,10 +233,6 @@ Data-driven dashboard for analyzing and comparing competitor pricing information
 * 🖥️ Interactive dashboard
 * 📋 Business insights
 
-<a href="https://github.com/humnaali450-hue/Competitor-Pricing-Analysis-Dashboard">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
 </td>
 
 <td width="50%" valign="top">
@@ -275,10 +248,6 @@ Data science project focused on analyzing customer behavior and identifying patt
 * 🔎 Feature analysis
 * 🤖 Machine learning
 * 📉 Model evaluation
-
-<a href="https://github.com/humnaali450-hue">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
 
 </td>
 
