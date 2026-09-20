@@ -167,7 +167,7 @@ A Retrieval-Augmented Generation application that allows users to upload researc
 * 🤖 Local LLM with Ollama
 * 💬 Document-based question answering
 
-<a href="https://github.com/humnaali450-hue/Research_Paper_Assistant">
+<a href="https://github.com/humnaali450-hue/Research-Paper-Assistant-RAG-APP">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
