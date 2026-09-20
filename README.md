@@ -4,9 +4,10 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1500\&color=58A6FF\&center=true\&vCenter=true\&width=800\&lines=Hey+there!+I'm+Fatima+%F0%9F%91%8B;AI+%26+Machine+Learning+Enthusiast;NLP+%7C+Generative+AI+%7C+Data+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=22\&pause=1500\&color=58A6FF\&center=true\&vCenter=true\&width=800\&lines=Hey+there!+I'm+Humna+%F0%9F%91%8B;AI+%26+Machine+Learning+Enthusiast;NLP+%7C+Generative+AI+%7C+Data+Science)](https://git.io/typing-svg)
 
 <br/>
+
 ### 🤖 AI & Machine Learning Enthusiast | NLP | Generative AI
 
 
@@ -290,11 +291,6 @@ Data science project focused on analyzing customer behavior and identifying patt
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=humnaali450-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humnaali450-hue&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
 
 <br/>
 
@@ -307,12 +303,17 @@ Data science project focused on analyzing customer behavior and identifying patt
 ---
 
 ## 🐍 Contribution Graph
-
+<!-- ===== CONTRIBUTION SNAKE ===== -->
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/humnaali450-hue/humnaali450-hue/output/snake.svg" alt="Contribution Snake"/>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/SaraArif6198/SaraArif6198/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/SaraArif6198/SaraArif6198/output/snake-light.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/SaraArif6198/SaraArif6198/output/snake-light.svg" />
+</picture>
 </div>
+
 
 ---
 
